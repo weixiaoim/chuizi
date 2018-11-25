@@ -6,9 +6,17 @@
 */
 .top{
 	background-color: red;
-	height: 48px;
+	height: 45px;
 }
 .header{
 	background-color: blue;
 	height: 75px;
+}
+.home{
+	background-color: purple;
+	height: 8000px;
+}
+.footer{
+	height: 356px;
+	background-color: pink;
 }
