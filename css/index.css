@@ -1,0 +1,14 @@
+/*
+* @Author: TomChen
+* @Date:   2018-11-15 20:47:21
+* @Last Modified by:   TomChen
+* @Last Modified time: 2018-11-15 20:47:50
+*/
+.top{
+	background-color: red;
+	height: 48px;
+}
+.header{
+	background-color: blue;
+	height: 75px;
+}
